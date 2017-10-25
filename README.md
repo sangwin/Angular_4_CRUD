@@ -1,18 +1,17 @@
-# Student Management
+# Angular 4 Basic CRUD Application for Beginners
 ### Created By [Sangwin Gawande](http://sangw.in)
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.4.3.
-
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.4.4.
 
 ## Feature list
 
  * Admin Login & Logout
- * Student Listing
- * Student Searching
- * Student Details
- * Student Addition
- * Student Update
- * Student Deletion
+ * User Listing
+ * User Searching
+ * User Details
+ * User Addition
+ * User Update
+ * User Deletion
 
 
 ## Angular 4 features used
